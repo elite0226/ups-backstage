@@ -1,0 +1,6 @@
+site_name: UPS documentation Site
+nav:
+  - Home: index.md
+theme: readthedocs
+plugins:
+  - techdocs-core
