@@ -5,8 +5,9 @@ metadata:
   description: An example of a Backstage application.
   # Example for optional annotations
   annotations:
+    backstage.io/techdocs-ref: url:https://github.com/elite0226/ups-backstage/tree/main/custom/directory
     github.com/project-slug: elite0226/ups-backstage
 spec:
-  type: other
+  type: library
   lifecycle: unknown
   owner: guests
